@@ -1,4 +1,4 @@
-# WikipediaFeatureArticle
+# Wikipedia Feature Article
 Java Code for getting Wikipedia featured article
 
 Requirements:
