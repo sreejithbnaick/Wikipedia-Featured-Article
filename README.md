@@ -7,7 +7,7 @@ Requirements:
 * Jsoup Java Library
 * A system to run the code !!!
 
-It is basically scrapping, use at your own risk ....
+This code uses scrapping, use at your own risk ....
 
 What to do:
 
