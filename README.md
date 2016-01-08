@@ -12,7 +12,7 @@ This code uses scrapping, use at your own risk ....
 What to do:
 
 
-Get JSOUP java library and then download `Wikipedia.java` file, in your java code just call
+Get JSOUP java library `jsoup-1.8.3.jar` and then download `Wikipedia.java` file, in your java code just call
 
 `Wikipedia.getWikiFeatureArticle(ts)` where `ts` is the timestamp (in milliseconds) of the day article is featured.
 and get result in json string, for eg
