@@ -27,3 +27,5 @@ and get result in json string, for eg
         "width" : 225,
         "height" : 320
     }
+
+Sample: `http://www.codesmell.in/wikifeature?ts=1452277904000` , try changing `ts` value
