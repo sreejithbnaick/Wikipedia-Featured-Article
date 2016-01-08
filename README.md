@@ -28,4 +28,5 @@ and get result in json string, for eg
         "height" : 320
     }
 
-Sample: http://www.codesmell.in/wikifeature?ts=1452277904000 , try changing `ts` value
+Sample: http://www.codesmell.in/wikifeature?ts=1452277904000 , try changing `ts` value, it might be tooo old.
+        http://www.codesmell.in/wikifeature , using time in server.
