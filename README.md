@@ -17,8 +17,6 @@ Get JSOUP java library and then download `Wikipedia.java` file, in your java cod
 `Wikipedia.getWikiFeatureArticle(ts)` where `ts` is the timestamp (in milliseconds) of the day article is featured.
 and get result in json string, for eg
 
-`{
-
     {
     "featured" : Bruce Kingsbury,
     "url" : https://en.wikipedia.org/wiki/Bruce_Kingsbury,
@@ -29,5 +27,3 @@ and get result in json string, for eg
         "width" : 225,
         "height" : 320
     }
-
-}`
