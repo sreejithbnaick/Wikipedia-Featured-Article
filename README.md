@@ -1,4 +1,4 @@
-# Wikipedia Feature Article
+# Wikipedia Article of the day
 Java Code for getting Wikipedia featured article
 
 Requirements:
@@ -28,5 +28,5 @@ and get result in json string, for eg
         "height" : 320
     }
 
-Sample: http://www.codesmell.in/wikifeature?ts=1452277904000 , try changing `ts` value, it might be tooo old.
-        http://www.codesmell.in/wikifeature , using time in server.
+Sample: https://secret-falls-17418.herokuapp.com/wikifeature?ts=1452277904000 , try changing `ts` value, it might be tooo old.
+        https://secret-falls-17418.herokuapp.com , using time in server.
